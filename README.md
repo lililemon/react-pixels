@@ -1,4 +1,4 @@
-# React Blockies
+# React Pixels
 
 This is a simple port of https://github.com/alexvandesande/blockies to a react component.  
 
